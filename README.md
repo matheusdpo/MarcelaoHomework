@@ -1,3 +1,3 @@
 # MarcelaoHomework
 
-Tarefa de faculdade para um amigo, onde deveria ser feito um CRUD em java 
+A simple CRUD friend's college project
